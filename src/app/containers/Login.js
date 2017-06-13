@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import logo from '../assets/images/logo2.png'
+import logo from '../assets/images/logo-sample-text_355-558.jpg'
 
 class Login extends Component{
 
@@ -15,7 +15,7 @@ class Login extends Component{
 			          </div>
 			        </div>
 			        <div className="hero-footer">
-			          <p className="has-text-centered">Sports in Focus ©</p>
+			          <p className="has-text-centered"></p>
 			        </div>
 			      </section>  
 			    </div>
